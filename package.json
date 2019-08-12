@@ -1,0 +1,22 @@
+{
+  "name": "native-threejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexVestin/native-threejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexVestin/native-threejs/issues"
+  },
+  "homepage": "https://github.com/AlexVestin/native-threejs#readme",
+  "dependencies": {
+    "three": "^0.107.0"
+  }
+}
