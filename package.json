@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/AlexVestin/native-threejs#readme",
   "dependencies": {
-    "node-gles": "file:../node-gles-0.0.13.tgz",
+    "node-gles": "file:node-gles-0.0.14.tgz",
     "pngjs": "^3.4.0",
     "three": "^0.107.0"
   }

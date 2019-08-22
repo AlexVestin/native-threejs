@@ -2,7 +2,7 @@ const THREE = require("three");
 const nodeGles = require("node-gles");
 
 
-const gl = nodeGles.binding.createWebGLRenderingContext();
+const gl = nodeGles.createWebGLRenderingContext();
 
 
 const width = 128;
