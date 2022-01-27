@@ -19,6 +19,6 @@
   "dependencies": {
     "node-gles": "file:node-gles-0.0.14.tgz",
     "pngjs": "^3.4.0",
-    "three": "^0.107.0"
+    "three": "^0.137.0"
   }
 }
